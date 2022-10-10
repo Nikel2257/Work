@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(50, 50, 50);
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+}
+.logo{
+    width: 600px;
+    padding-top: 15px;
+}
+.header__list{
+    padding: 0px;
+}
+.header__list-li{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+}
+
+.header__title{
+    margin: 0;
+    padding: 0;
+    font-size: 39px;
+}
+.header__text{
+    margin: 5px;
+    padding: 0px;
+    font-size: 25px;
+    font-weight: 300;
+    color: gray;
+    
+}
+
+.link{
+    text-decoration: none;
+    color: palevioletred;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
